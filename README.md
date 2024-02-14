@@ -6,7 +6,7 @@ This application is a comprehensive platform designed to provide users with a se
 
 ## Live Application
 
-Access the live application [here](link).
+Access the live application [https://news-profile-app.vercel.app](link).
 
 ## Core Components
 
