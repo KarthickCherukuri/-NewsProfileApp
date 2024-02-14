@@ -1,0 +1,19 @@
+.tab-selections {
+  display: flex;
+
+  width: min(500px, 100vw);
+}
+
+.tab-selections label {
+  flex-grow: 1;
+  text-align: center;
+  padding-bottom: 5px;
+}
+.selected-tab {
+  color: rgb(11, 196, 229);
+  border-bottom: 2px solid rgb(11, 196, 229);
+}
+
+.tab-selections input {
+  display: none;
+}

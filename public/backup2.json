@@ -1,0 +1,188 @@
+{
+  "status": "ok",
+  "totalResults": 34,
+  "articles": [
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Lisa Kailai Han, Brian Evans",
+      "title": "Dow drops 400 points as hot inflation report sends Wall Street reeling: Live updates - CNBC",
+      "description": "Stocks dropped on Tuesday after hotter-than-expected inflation data for January spiked Treasury yields.",
+      "url": "https://www.cnbc.com/2024/02/12/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107356168-17048204932024-01-09t165222z_605066451_rc2ee5arfqa0_rtrmadp_0_usa-stocks.jpeg?v=1704820578&w=1920&h=1080",
+      "publishedAt": "2024-02-13T14:41:00Z",
+      "content": "Stocks dropped on Tuesday after hotter-than-expected inflation data for January spiked Treasury yields and raised doubts that the Federal Reserve would be able to cut rates several times this year, a… [+1886 chars]"
+    },
+
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Amanda Musa",
+      "title": "What to know about Alaskapox after officials report first known fatal case - CNN",
+      "description": "Health officials in Alaska have identified the first known death linked to a recently discovered virus called Alaskapox.",
+      "url": "https://www.cnn.com/2024/02/13/health/alaskapox-virus-xpn/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1349026383.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-02-13T14:14:00Z",
+      "content": "Health officials in Alaska have identified the first known death linked to a recently discovered virus called Alaskapox.\r\nSince its discovery in 2015, seven Alaskapox infections have been reported, a… [+5560 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Hollywood Reporter" },
+      "author": "Georg Szalai",
+      "title": "Paramount to Lay Off 800 Staffers as CEO Unveils Broad “Streamlining Costs” Effort - Hollywood Reporter",
+      "description": "As Wall Street evaluates the media giant's future as a standalone company and suitors wait in the wings, CEO Bob Bakish says U.S. employees impacted will be notified by the end of day today.",
+      "url": "http://www.hollywoodreporter.com/business/business-news/paramount-layoffs-memo-staff-cuts-1235823470/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2021/07/Bob-Bakish_034-R2-H-2021.jpg?w=1024",
+      "publishedAt": "2024-02-13T14:00:56Z",
+      "content": "Paramount Global CEO Bob Bakish recently asked his staff to prioritize “managing costs” and earnings growth amid expectations of looming layoffs and deal chatter surrounding the entertainment giant. … [+4415 chars]"
+    },
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Tom Warren",
+      "title": "Nvidia's Chat with RTX is a promising AI chatbot that runs locally on your PC - The Verge",
+      "description": "Nvidia has released a demo app of an AI chatbot for its GPUs. Chat with RTX runs locally on a Windows PC, allowing you to summarize your own docs.",
+      "url": "https://www.theverge.com/2024/2/13/24071645/nvidia-ai-chatbot-chat-with-rtx-tech-demo-hands-on",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/p3chlPo-ced0Zkb0SaTNYQABV-k=/0x0:1280x680/1200x628/filters:focal(640x340:641x341)/cdn.vox-cdn.com/uploads/chorus_asset/file/25283485/Chat_with_RTX_Feb_13.jpg",
+      "publishedAt": "2024-02-13T14:00:00Z",
+      "content": "Nvidias Chat with RTX is a promising AI chatbot that runs locally on your PC\r\nNvidias Chat with RTX is a promising AI chatbot that runs locally on your PC\r\n / Nvidia makes it easy to run a large lang… [+4890 chars]"
+    },
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Christian Davenport",
+      "title": "Intuitive Machines Odyssey lunar lander to be launched early Wednesday - The Washington Post",
+      "description": "If successful, it would be the first lunar landing by a U.S. vehicle since the last of the Apollo missions in 1972.",
+      "url": "https://www.washingtonpost.com/technology/2024/02/13/intuitive-machines-lunar-lander-launch/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WZ6VG5NL72QN2Q4ABMRIHCDZ74_size-normalized.jpg&w=1440",
+      "publishedAt": "2024-02-13T13:33:01Z",
+      "content": "NASAs Artemis program, the quest to eventually return astronauts to the surface of the moon, is off to a fitful start. In January, the first attempt to land a robotic spacecraft on the lunar surface … [+7915 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": null,
+      "title": "Israel Gaza: Ceasefire talks resume as Rafah under fire - BBC.com",
+      "description": "Senior US, Israeli, Qatari and Egyptian officials meet amid fears Israel could expand its ground offensive.",
+      "url": "https://www.bbc.com/news/world-middle-east-68284819",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17F4B/production/_132632189_mediaitem132632185.jpg",
+      "publishedAt": "2024-02-13T13:27:41Z",
+      "content": "More than a million people are packed into a small corner of southern Gaza\r\nNegotiations for a ceasefire between Israel and Hamas in Gaza have resumed in Cairo, Egyptian media say.\r\nSenior officials … [+3220 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Elizabeth Wolfe, Lauren Mascarenhas",
+      "title": "New York City and Northeast metros brace for disruptive heavy snow from potent nor’easter - CNN",
+      "description": "A potent and fast-moving nor’easter has New York City and and a densely populated swath of the Northeast bracing for heavy snow on Tuesday, which is already causing disruptions to travel, school and work.",
+      "url": "https://www.cnn.com/2024/02/13/weather/northeast-noreaster-snow-storm-forecast-tuesday/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnn-digital-tracker-severe-forecast-radar-hrrr-card-20240213044030720.png?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-02-13T13:17:00Z",
+      "content": "New York City and other major northeastern metropolitans are bracing for a surge of snow from a potent and fast-moving noreaster that is set to knock out power and significantly disrupt travel, work … [+5536 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Ryan Young",
+      "title": "Rockets sneak past Knicks after late, controversial foul call on Jalen Brunson that left Tom Thibodeau irate - Yahoo Sports",
+      "description": "Both Jalen Brunson and Knicks coach Tom Thibodeau were stunned after a foul was called at the buzzer.",
+      "url": "https://sports.yahoo.com/rockets-beat-knicks-after-late-controversial-foul-call-on-jalen-brunson-that-left-tom-thibodeau-irate-041924417.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/1JYH8ZG3Uc5ukzlNLE0Hcw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-02/6d026150-ca24-11ee-af0f-7acaa4fd6b87",
+      "publishedAt": "2024-02-13T13:10:07Z",
+      "content": "The Houston Rockets narrowly pulled out a win on Monday night thanks to a foul call at the buzzer that left both Jalen Brunson and New York Knicks head coach Tom Thibodeau up in arms.\r\nThe call was s… [+2951 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": null,
+      "title": "Katy Perry to leave American Idol after seven seasons - BBC.com",
+      "description": "The singer reveals this season of the talent show will be her last after seven seasons.",
+      "url": "https://www.bbc.com/news/entertainment-arts-68282815",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13B34/production/_132629608_gettyimages-1257038067.jpg",
+      "publishedAt": "2024-02-13T13:08:53Z",
+      "content": "By Andre Rhoden-PaulBBC News\r\nKaty Perry has been a judge on the show since 2018\r\nKaty Perry has revealed she is leaving American Idol after seven seasons as a judge on the talent show. \r\nAppearing o… [+3161 chars]"
+    },
+    {
+      "source": { "id": "politico", "name": "Politico" },
+      "author": null,
+      "title": "Senate passes $95B aid package for Ukraine, Israel and Taiwan despite Trump attacks - POLITICO",
+      "description": "Speaker Mike Johnson signaled opposition to the package on Monday, saying the House will \"continue to work its own will.\"",
+      "url": "https://www.politico.com/news/2024/02/13/senate-aid-package-ukraine-israel-taiwan-00141135",
+      "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/00516a02-16a7-452f-a182-0da517cdc010/641c9d49-e9d4-4b78-891a-500a992a77c8/1280x720/match/image.jpg",
+      "publishedAt": "2024-02-13T13:06:59Z",
+      "content": "Democratic-aligned defectors also grew overnight, with Sens. Bernie Sanders (I-Vt.), Jeff Merkley (D-Ore.) and Peter Welch (D-Vt.) all voting against the bill. But the vast majority of the caucus stu… [+1614 chars]"
+    },
+
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Ben Morse",
+      "title": "San Francisco 49ers players admit they didn’t know new Super Bowl overtime rules following loss to Chiefs - CNN",
+      "description": "Super Bowl LVIII came down to the wire. Sixty minutes of action couldn’t separate the Kansas City Chiefs and the San Francisco 49ers and so the Super Bowl went to overtime.",
+      "url": "https://www.cnn.com/2024/02/13/sport/49ers-players-overtime-rules-super-bowl-lviii-spt-intl/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2004083903.jpeg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-02-13T13:02:00Z",
+      "content": "Super Bowl LVIII came down to the wire. Sixty minutes of action couldnt separate the Kansas City Chiefs and the San Francisco 49ers and so the Super Bowl went to overtime.\r\nHindsight is a wonderful t… [+4210 chars]"
+    },
+    {
+      "source": { "id": "abc-news", "name": "ABC News" },
+      "author": "Sasha Pezenik, Josh Margolin, Mireya Villarreal, Jim Scholz, Gina Sunseri",
+      "title": "Suspected Lakewood Church shooter Genesse Moreno had criminal history, mental health issues, documents say - ABC News",
+      "description": "The suspect also had a contentious divorce.",
+      "url": "https://abcnews.go.com/US/suspected-lakewood-church-shooter-criminal-history-mental-health/story?id=107179259",
+      "urlToImage": "https://i.abcnewsfe.com/a/3d72192c-36aa-4f3f-b983-9aa1edc863e2/lakewood-021224_1707797179959_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2024-02-13T12:33:45Z",
+      "content": "The past of Genesse Ivonne Moreno, the suspected Lakewood Church shooter, includes a turbulent marriage, a contentious divorce, allegations of child and spousal abuse, a checkered criminal record and… [+10971 chars]"
+    },
+    {
+      "source": { "id": null, "name": "HuffPost" },
+      "author": "Ed Mazza",
+      "title": "Jon Stewart Goes Absolutely Off On Trump AND Biden In Scathing 'Daily Show' Return - Yahoo Entertainment",
+      "description": "The longtime host is back after a nine-year absence from the hit late-night talk series with an urgent message for the nation.",
+      "url": "https://www.huffpost.com/entry/jon-stewart-daily-show-return-monologue_n_65cae16fe4b01f4a8b020b79",
+      "urlToImage": "https://img.huffingtonpost.com/asset/65caf4dd2400001f00280ae4.jpg?cache=w6Xy2rDMZc&ops=1200_630",
+      "publishedAt": "2024-02-13T12:22:23Z",
+      "content": "Jon Stewart made an extremely candid return to The Daily Show on Monday, delivering a brutal assessment of President Joe Biden and Donald Trump.\r\nOr, as he referred to the two: These fucking guys. \r\n… [+4040 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Ananya Mariam Rajesh",
+      "title": "Coca-Cola revenue tops estimates on firm demand, higher prices - Yahoo Finance",
+      "description": "(Reuters) -Coca-Cola surpassed Wall Street expectations for fourth-quarter revenue on Tuesday, as it benefits from higher product prices and buoyant demand...",
+      "url": "https://finance.yahoo.com/news/coca-cola-revenue-tops-estimates-120101512.html",
+      "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/8c02d8dcf5b0d05e7be384f2b605eacd",
+      "publishedAt": "2024-02-13T12:01:01Z",
+      "content": "By Ananya Mariam Rajesh\r\n(Reuters) -Coca-Cola surpassed Wall Street expectations for fourth-quarter revenue on Tuesday, as it benefits from higher product prices and buoyant demand for its juices, en… [+1779 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": null,
+      "title": "Body shop UK jobs and stores at risk in scramble to save firm - BBC.com",
+      "description": "The retailer's shops will remain open as usual while the administrators try to save the UK firm.",
+      "url": "https://www.bbc.com/news/business-68273424",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10ED/production/_132633340_the_body_shop_shutterstock.jpg",
+      "publishedAt": "2024-02-13T11:42:29Z",
+      "content": "The Body Shop's UK business has entered administration, potentially putting up to 2,000 jobs at risk. \r\nThe retailer's shops will remain open as usual while efforts are made to try to save the UK fir… [+3356 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Forbes" },
+      "author": "Jeff Kauflin",
+      "title": "The 50 Hottest Fintech Startups - Forbes",
+      "description": "Despite the industry’s funding woes, some startups–particularly those serving others business—are thriving. Here’s the Forbes Fintech 50 for 2024.",
+      "url": "https://www.forbes.com/sites/jeffkauflin/2024/02/13/the-50-hottest-fintech-startups/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65cae597e7e234a461e11984/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-02-13T11:15:00Z",
+      "content": "The past year has been painful for the financial technology industry, with publicly traded fintech stocks languishing 50% below their late 2021 peak, even as the S&amp;P 500 has surged to new highs. … [+6676 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": null,
+      "title": "Labour withdraws support for Rochdale candidate Azhar Ali over Israel comments - BBC.com",
+      "description": "The party said the decision was taken after \"new information about further comments\" came to light.",
+      "url": "https://www.bbc.com/news/uk-politics-68280098",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F41C/production/_132629426_azhar_ali_getty_2.jpg",
+      "publishedAt": "2024-02-13T11:05:09Z",
+      "content": "By Becky Morton and Sam FrancisBBC political reporters\r\nLabour has withdrawn support for Rochdale by-election candidate Azhar Ali over comments he apparently made about Israel and Jewish people.\r\nLab… [+6504 chars]"
+    },
+    {
+      "source": { "id": "ign", "name": "IGN" },
+      "author": "Wesley Yin-Poole",
+      "title": "Hi-Fi Rush and Pentiment Reportedly the First Two Xbox Games to Launch on Rival Consoles - IGN",
+      "description": "Hi-Fi Rush and Pentiment are reportedly the first two Xbox games to launch on rival consoles, with Sea of Thieves due later in 2024.",
+      "url": "https://www.ign.com/articles/hi-fi-rush-and-pentiment-reportedly-the-first-two-xbox-games-to-launch-on-rival-consoles",
+      "urlToImage": "https://assets-prd.ignimgs.com/2023/01/25/hi-fi-rush4-1674679039990.jpg?width=1280",
+      "publishedAt": "2024-02-13T11:00:20Z",
+      "content": "Hi-Fi Rush and Pentiment are the first two Xbox games to launch on rival consoles, according to The Verge.\r\nAmid slowing Game Pass subscriptions and flagging sales of Xbox consoles, Microsoft will so… [+3006 chars]"
+    }
+  ]
+}
