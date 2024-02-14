@@ -1,70 +1,55 @@
-# Getting Started with Create React App
+# NewsProfileApp
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
 
-## Available Scripts
+This application is a comprehensive platform designed to provide users with a seamless experience for viewing posts and bookmarks. It is built with a focus on user-centric design and functionality.
 
-In the project directory, you can run:
+## Live Application
 
-### `npm start`
+Access the live application [here](link).
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Core Components
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Posts**: Responsible for rendering the posts in both the bookmarks and posts tabs.
+- **UserDetails**: Handles the display of user-specific details, including name, bio, and the settings button.
+- **Tabsection**: Facilitates the switching between different tabs.
 
-### `npm test`
+## Routing Structure
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Home Page: `/`
+- Settings Page: `/settings`
+- All Other Routes: NotFoundPage
 
-### `npm run build`
+## Getting Started
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+To run the application locally:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. Clone the repository.
+2. Install the necessary packages using `npm install`.
+3. Start the server with `npm start`.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Dependencies
 
-### `npm run eject`
+- **React-hook-theme**: Used for implementing dark and light modes.
+- **React-icon**: Facilitates the usage of icons.
+- **React-loader-spinner**: Provides a loading spinner while data is being fetched.
+- **React-router-dom**: Handles navigation within the application.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Key Features
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- **Dark Mode**: The default theme is set to match the system's default. Users can toggle between dark and light modes via the settings page.
+- **NewsAPI Integration**: A loading spinner is displayed while data is being fetched. Upon successful data retrieval, posts and bookmarks are displayed. In case of failure (e.g., API limit exceeded), static data is displayed.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Visual Overview
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Desktop View
 
-## Learn More
+![Darkmode, Desktop View](./screenshots/bookmark-dark-dk.png)
+![Lightmode, Desktop View](./screenshots/post-light-dt.png)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Mobile View
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Darkmode, Mobile View, Posts Tab](./screenshots/post-dark-mb.png)
+![Lightmode, Mobile View, Bookmarks Tab](./screenshots/bookmard-light-mb.png)
+![Darkmode, Mobile View, Settings](./screenshots/setting-dark.png)
+![Lightmode, Mobile View, Settings](./screenshots/setting-light.png)
